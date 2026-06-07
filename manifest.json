@@ -1,0 +1,17 @@
+{
+  "name": "Módulo Escala",
+  "short_name": "Escala",
+  "description": "Ferramenta inclusiva para estudo de escalas e campos harmônicos.",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#38bdf8",
+  "icons": [
+    {
+      "src": "https://cdn-icons-png.flaticon.com/512/3844/3844724.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
